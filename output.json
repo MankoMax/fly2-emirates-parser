@@ -1,0 +1,14 @@
+[
+    {
+        "flight time": "2 hrs 15 mins",
+        "flight cost": "11132.55",
+        "flight connections": "DUR, DXB",
+        "flight class": "Economy"
+    },
+    {
+        "flight time": "2 hrs 15 mins",
+        "flight cost": "11462.55",
+        "flight connections": "CPT, DXB",
+        "flight class": "Economy"
+    }
+]

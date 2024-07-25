@@ -16,7 +16,7 @@ This script automates the process of searching for one-way flights on the https:
     poetry shell
     ```
 
-3. **Install the required packages:**
+2. **Install the required packages:**
     ```sh
     poetry install
     ```

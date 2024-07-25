@@ -1,0 +1,6 @@
+.idea
+/parser/db.sqlite3
+*.pyc
+*.env
+.env
+parser/parser/local_settings.py
